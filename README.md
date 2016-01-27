@@ -1,4 +1,7 @@
 # mongo-jdbc
+
+Hey! We have moved. Find us [here](https://github.com/eclipselabs/mongodb-jdbc-driver).
+
 JDBC channel for MongoDB.
 While this driver mostly adheres to the JDBC ways of connections, statements and resultsets, note that this driver does not translate to/from SQL. It uses Mongo's query format instead. 
 Example:
